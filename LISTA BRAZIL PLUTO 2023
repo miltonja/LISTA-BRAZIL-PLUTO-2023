@@ -3,75 +3,75 @@
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/m9BKIY6.png",Acción Mexicana | Canela TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1736
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/lv6dbAJ.png",Adrenalina Freezone | Pluto TV Argentina
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/L5DpZGVs/CINE-ADRENALINA-FREEZONE-01.png",Adrenalina Freezone | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/vjqgSsY.png",Canela Cinema
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/PrdrRm3m/CANELA-TVCINEMA.png",Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/vjqgSsY.png",Canela Clásicos
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/zvzZ0kzv/Canela-TVCLASICOS.png",Canela Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/vjqgSsY.png",Canela Clásicos 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1734
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/DRCCzun.png",Canela Hollywood
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/NjJnccgg/CANELA-TV-HOLLYWOOD.png",Canela Hollywood
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
 #EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/qIPX1zk.png",Chiquilines | Distro
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
 #EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/qIPX1zk.png",Chiquilines | Plex
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/dr6l8n0.png",Cine Acción | Pluto TV Argentina
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/gkdgK162/CINE-ACCION02.png",Cine Acción | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="http://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png",Cine Acción | Pluto TV Espanha
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/MKdmmHS9/CINE-ACCIO03.png",Cine Acción | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="http://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png",Cine Adrenalina | Pluto TV EUA
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/c12GgMZZ/CINE-ADRENALINA01.png",Cine Adrenalina | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="http://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png",Cine Clásico | Pluto TV Argentina
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/pTWbWBwv/CINE-CLASIC01.png",Cine Clásico | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="http://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png",Cine Clásico | Pluto TV Espanha
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/9ML3r727/CINE-CLASSICO-O2.png",Cine Clásico | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/TXL1q7B.png",Cine Comedia | Pluto TV Argentina
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/bwyFq4zB/CINE-COMEDIA01.png",Cine Comedia | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="http://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png",Cine Comedia | Pluto TV Espanha
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/0ykvBnV7/CINE-COMEDIA-02.png",Cine Comedia | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/8UKvQOV.png",Cine Drama | Pluto TV Argentina
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/bJtjKN4t/CINE-DRAMMA0002.png",Cine Drama | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="http://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png",Cine Drama | Pluto TV Espanha
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/bJtjKN4t/CINE-DRAMMA0002.png",Cine Drama | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/pFfcdh7.png",Cine Estelar | Pluto TV Argentina
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/rwnWfvWG/CINE-ESTELAR.png",Cine Estelar | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="http://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png",Cine Estelar | Pluto TV Espanha
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/2SJC5whF/CINE-ESTELAR02.png",Cine Estelar | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="http://images.pluto.tv/channels/5f59f50cc36a94000749fd3f/colorLogoPNG.png",Cine Estelar+ | Pluto TV Espanha
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/WzrNRJh6/CINE-ESTELAR03.png",Cine Estelar+ | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png",Cine Familia | Pluto TV Argentina
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/SKrfGWgT/CINE-FAMUILIA001.png",Cine Familia | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG.png",Cine JaJa | EUA
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/JhsMmQSv/CINE-JAJA02.png",Cine JaJa | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="http://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png",Cine Premiere | Pluto TV EUA
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/t4SpLcvF/CINE-PREMIER01.png",Cine Premiere | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png",Cine Real - Plex
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-plex/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/k4ScVGA.png",Cine Romance | Pluto TV Argentina
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/0jC4BxTY/CINE-ROMANCE003.png",Cine Romance | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="http://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png",Cine Romántico | Pluto TV Espanha
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/43F0LwRF/CINE-ROMANCE01.png",Cine Romántico | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/acKgmyh.png",Cine Romántico | EUA
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/wTdGG7nH/CINE-ROMANCE02.png",Cine Romántico | EUA
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/acKgmyh.png",Cine Romántico | Canela TV
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/D0GzF3YS/cine-romantico001.png",Cine Romántico | Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/acKgmyh.png",Cine Romántico | Canela TV 2
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/c1tCff4d/cine-romantico.png",Cine Romántico | Canela TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1735
 #EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinesureno_logo_light.png",Cine Sureño - Plex
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/zZJhMUh.png",Cine Suspenso | Pluto TV Argentina
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/vmMVQskg/CINE-SUSPENSE01.png",Cine Suspenso | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/l0S66Id.png",Cine Terror | Pluto TV Argentina
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/Dyqtvq18/CINE-TERROR-02.png",Cine Terror | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="http://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png",Cine Terror | Pluto TV EUA
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/7ZZfGd5W/CINE-TERROR001.png",Cine Terror | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG.png",Cine Xoxo | EUA
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/vHzPMsQ4/CINE-CINE-XOXO001.png",Cine Xoxo | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="http://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png",España | Pluto TV Argentina
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/RhvcbWJX/CINE-ESPA-A01.png",España | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.imgur.com/Q5HuqXA.png",Estrellas de Acción | Argentina
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/TYVP3tSL/CINE-ESTRELLAS-DE-ACCION01.png",Estrellas de Acción | Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fe3c7159-2d42-47c3-a112-2c0cd847e4ef/horrorfy_logo.png",Horrorfy
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-To
