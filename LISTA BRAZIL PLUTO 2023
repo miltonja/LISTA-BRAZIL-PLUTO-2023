@@ -153,7 +153,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96b8f4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Documentários em espanhol" tvg-logo="https://i.postimg.cc/Gpb6yLhc/PLUTO-ARCHIVOS-FBI.png",Los archivos del FBI | Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Documentários em espanhol" tvg-logo="https://i.postimg.cc/HxJVTz9N/PLUTO-TV-LOS-NUEVOS-DETECTIVES.png",Los nuevos detectives | Espanha
+#EXTINF:-1 group-title="Documentários em espanhol"tvg-logo="https://i.postimg.cc/HxJVTz9N/PLUTO-TV-LOS-NUEVOS-DETECTIVES.png",Los nuevos detectives | Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Documentários em espanhol" tvg-logo="https://i.postimg.cc/C1YFzVD9/PLUTO-TV-LOVE-NATURE.png",Love Nature | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -173,7 +173,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Documentários em espanhol" tvg-logo="https://i.imgur.com/dWCa0rS.png",Saber Más
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Documentários em espanhol" tvg-logo="https://i.imgur.com/aS2Zsza.png",The New Detectives | Argentina
+#EXTINF:-1 group-title="Documentários em espanhol" tvg-logo="https://i.postimg.cc/HxJVTz9N/PLUTO-TV-LOS-NUEVOS-DETECTIVES.png",The New Detectives | Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Documentários em espanhol" tvg-logo="https://i.postimg.cc/wvTbMWf9/PLUTO-TV-MISTERIOS-MSIN-RESOLVER.png",Unsovled Mysteries en Español | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d882d5233170007ee880e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -185,57 +185,57 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c343ad4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df265697ec3510009df1ef0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/VkwHWpQW/PLUTO-TV-E-SPORTS.png",Action Sports | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/76z8wtfb/PLUTO-TV-BEIN-SPORTS.png",BBC Top Gear | Pluto TV Espanha
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/hvgVJgbh/PLUTO-TV-TOP-GEAR.png",BBC Top Gear | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="http://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png",beIN Sports Xtra en español | EUA
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/76z8wtfb/PLUTO-TV-BEIN-SPORTS.png",beIN Sports Xtra en español | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30alivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.imgur.com/AfUvEG1.png",Canela Sports
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/RZWjktcP/CANELA-SPORTS.png",Canela Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
-#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.imgur.com/7jxA4O4.png",Combate Global
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/y8MGfQmB/200px-CG-logo-final-svg.png",Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="http://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png",Deportes | Pluto TV Argentina
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/k4VhDyf7/PLUTO-TV-DEPORTES.png",Deportes | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.imgur.com/1kXmNJ2.png",El Pinguino Retransmisión | Chile
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1650
-#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.imgur.com/gUQ6CUw.png",Lucha Libre AAA | Argentina
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/Zqh753nK/PLUTO-TV-LUCHA-LIBRE.png",Lucha Libre AAA | Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="http://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png",Lucha Libre AAA | EUA
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/Zqh753nK/PLUTO-TV-LUCHA-LIBRE.png",Lucha Libre AAA | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="http://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png",Motor | Pluto TV Espanha
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/fTckTLCh/PLUTO-TV-motor.png",Motor | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png",Motorvision
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/28RVDv4w/PLUTO-TV-MOTOR-VISION.png",Motorvision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=757
-#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png",Motorvision 2
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/28RVDv4w/PLUTO-TV-MOTOR-VISION.png",Motorvision 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1677
-#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="http://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png",Motorvision | Pluto TV Argentina
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/28RVDv4w/PLUTO-TV-MOTOR-VISION.png",Motorvision | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="http://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png",Peleas | Pluto TV Argentina
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/65htymBx/PLUTO-TV-PELEAS.png",Peleas | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.imgur.com/la5l80U.png",Velocidad​ | Pluto TV Argentina
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/BvfgfbRJ/PLUTO-TV-VELOCIDAD.png",Velocidad​ | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="http://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png",World Poker Tour | Pluto TV Espanha
+#EXTINF:-1 group-title="Esportes em espanhol" tvg-logo="https://i.postimg.cc/MpKcwfr6/PLUTO-WORLD-POKER-TOUR.png",World Poker Tour | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-espanol.png",Always Funny Videos | link 2
 https://c054f53413c54c1d9214a6156a264c0d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-PLEX/mt/plex/46/hls/master/playlist.m3u8?ads.plex_token=y4Rf78msRg4_dQbMaoax&ads.plex_id=5ef4e1b10d9ad000423c4421&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="http://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png",Comedia made in Spain | Espanha
+#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/nhnrsJS9/PLUTO-TV-COMEDIA-MADE-IN-ESPAIN.png",Comedia made in Spain | Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="http://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png",Comedia Made in Spain+ | Espanha
+#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/nhnrsJS9/PLUTO-TV-COMEDIA-MADE-IN-ESPAIN.png",Comedia Made in Spain+ | Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0a0109d930000711e610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="http://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png",Comedy Central | Pluto TV Argentina
+#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/bv9TNws7/PLUTO-TV-COMEDY-CENTRAL.png",Comedy Central | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="http://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG.png",Comedy Central Latino | EUA
+#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/bv9TNws7/PLUTO-TV-COMEDY-CENTRAL.png",Comedy Central Latino | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png",El Encantador de Perros | Pluto TV Argentina
+#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/Y9Tfk93W/PLUTO-TV-EL-ENCANTADOR-DE-PERROS.png",El Encantador de Perros | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png",El Encantador de Perros | Pluto TV Espanha
+#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/Y9Tfk93W/PLUTO-TV-EL-ENCANTADOR-DE-PERROS.png",El Encantador de Perros | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.imgur.com/EXYSndm.png",FailArmy | Argentina
+#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/rw61v5Kg/PLUTO-TV-FAILARMY.png",FailArmy | Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="http://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png",FailArmy | Espanha
+#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/rw61v5Kg/PLUTO-TV-FAILARMY.png",FailArmy | Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.imgur.com/2u6IZHl.png",Humor | Pluto TV | Argentina
+#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/RhMZN56y/PLUTO-TV-HUMOR.png",Humor | Pluto TV | Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="http://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png",MTV Ridiculousness | Pluto TV Argentina
+#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/bwY6mZFy/PLUTO-TV-MTV-RIDICULONS.png",MTV Ridiculousness | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png",South Park | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
