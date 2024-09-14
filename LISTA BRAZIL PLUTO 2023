@@ -73,7 +73,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5136317
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/TYVP3tSL/CINE-ESTRELLAS-DE-ACCION01.png",Estrellas de Acción | Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/VLNMhq33/Horrofy-Mod.png",Horrorfy
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/mDyB90wZ/HORRORFY.png",Horrorfy
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-To
 #EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/tCHLmwzD/PLUTO-TV-CINE-AUTOR.png",Indies | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -241,7 +241,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e98a911c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/V64t0nCt/PLUTO_TV_SOUTH_PARK.png",South Park | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/628751bb7154a40007168843/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://images.pluto.tv/channels/6132429ec9e0db0007a91425/colorLogoPNG.png",Susana Giménez | Pluto TV Argentina
+#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/W1GWsTb4/PLUTO-TV-SUSANA-JIMENEZ.png",Susana Giménez | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132429ec9e0db0007a91425/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.imgur.com/ivpFJPw.png",The Pet Collective | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -493,29 +493,29 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/S5LI4ps.png",V2Beat TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Música" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png",Vevo 70s | Pluto TV EUA
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/5NYfPQGv/PLUTO_TV_VEVO_70s.png",Vevo 70s | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Música" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png",Vevo 80s | Pluto TV EUA
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/zDnf5gpr/PLUTO_TV_VEVO_80s.png",Vevo 80s | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Música" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png",Vevo 90s | Pluto TV EUA
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/QNByWQw2/PLUTO_TV_VEVO_90s.png",Vevo 90s | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Música" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png",Vevo 2K | Pluto TV EUA
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/QdNPC23b/PLUTO_TV_VEVO_2K.png",Vevo 2K | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Música" tvg-logo="http://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png",Vevo Country | Pluto TV EUA
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/tC24fHCQ/PLUTO_TV_VEVO_COUNTRY.png",Vevo Country | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Música" tvg-logo="http://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png",Vevo Latino | Pluto TV EUA
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/VLcmJCxf/PLuto_tv_veveo_latino.png",Vevo Latino | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Música" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png",Vevo Pop | Pluto TV EUA
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/hPLHJ3nv/PLUTO_TV_VEVO_POP.png",Vevo Pop | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Música" tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png",Vevo R&B | Pluto TV EUA
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/htp5FpN5/PLUTO_TV_R&B.png",Vevo R&B | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Música" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png",Vevo Reggaetón & Trap | Pluto TV EUA
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/t4R0PQ9J/PLUTO_TV_REGGAETON.png",Vevo Reggaetón & Trap | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Música" tvg-logo="http://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png",Vevo Retro Rock | Pluto TV EUA
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/T2QT3v1C/PLUTO-TV-RETRO-ROCK.png",Vevo Retro Rock | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Música" tvg-logo="http://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png",Vevo True School Hip-Hop | Pluto TV EUA
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/tJrbSWwL/PLUTO-TV-TRUE-SCHOOL-HIP-HOP.png",Vevo True School Hip-Hop | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Música" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png",VH1 Classics | Pluto TV Espanha
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/mkZRy8XY/PLUTO-TV-VH1.png",VH1 Classics | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/wvo2EYr.jpg",Xite | Alemanha
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8
