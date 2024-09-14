@@ -75,9 +75,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/VLNMhq33/Horrofy-Mod.png",Horrorfy
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-To
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="http://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png",Indies | Pluto TV Espanha
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/tCHLmwzD/PLUTO-TV-CINE-AUTOR.png",Indies | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="http://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG.png",Mission Impossible | EUA
+#EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/KcT6fxtR/PLUTO-TV-MISION-IMPOSIBLE.png",Mission Impossible | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Cinema em espanhol" tvg-logo="https://i.postimg.cc/cC2zQTjW/PLUTO-TV-NUESTRO-CINE.png",Nuestro Cine | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -133,7 +133,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/622f42b831233300078658cc/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Documentários em espanhol" tvg-logo="https://i.postimg.cc/02MVK1cW/PLUTO-TV-CRIMENES-IMPERFECTOS.png",Crímenes Imperfectos | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Documentários em espanhol" tvg-logo="https://i.imgur.com/CsHdYhG.png",Deutsche Welle - DW em espanhol | Alemanha
+#EXTINF:-1 group-title="Documentários em espanhol" tvg-logo="https://i.postimg.cc/sfQkwVxY/DW-ESPA-OL.png",Deutsche Welle - DW em espanhol | Alemanha
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Documentários em espanhol" tvg-logo="https://i.postimg.cc/4d0zXmkJ/PLUTO-TV-DOCUMENTALES.png",Documentales | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61cd78920b90cb0007e28231/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -155,7 +155,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b9
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Documentários em espanhol"tvg-logo="https://i.postimg.cc/HxJVTz9N/PLUTO-TV-LOS-NUEVOS-DETECTIVES.png",Los nuevos detectives | Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Documentários em espanhol" tvg-logo="https://i.postimg.cc/C1YFzVD9/PLUTO-TV-LOVE-NATURE.png",Love Nature | Pluto TV Espanha
+#EXTINF:-1 group-title="Documentários em espanhol" tvg-logo="https://i.postimg.cc/fyFkMZT3/PLUTO-TV-LOVE-NATURE-BLANCO.png",Love Nature | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Documentários em espanhol" tvg-logo="https://i.postimg.cc/L4VyV9c7/PLUTO-TV-MISTERIOS.png",Misterios | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -245,11 +245,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/628751bb7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132429ec9e0db0007a91425/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.imgur.com/ivpFJPw.png",The Pet Collective | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/WpQRHbPj/PLUTO_TV_WIPEOUT.png",Wipeout | Pluto TV Argentina
+#EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/prk4jXnT/PLUTO-TV-WIPEHOUT.png",Wipeout | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Humor e pets em espanhol" tvg-logo="https://i.postimg.cc/WpQRHbPj/PLUTO_TV_WIPEOUT.png",Wipeout | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604f8125c6669b00077f7699/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="http://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png",AnimaKids+ | Pluto TV Espanha
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/NFfYSn6K/PLUTO-TV-ANIMA-KIDS.png",AnimaKids+ | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a2aea6bffc400076bb4e5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/PrwNW9DL/PLUTO-TV-ANIME.png",Anime | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -257,9 +257,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/rmRSQ4fM/PLUTO-TV-ANIME-ACCION.png",Anime Acción | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="http://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png",Avatar | Pluto TV Espanha
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/MpRkPwCs/PLUTO-TV-AVATAR.png",Avatar | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373c865ed5810007173fbc/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="http://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png",Baby Shark | Pluto TV Argentina
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/QxTnsbfC/PLUTO-TV-BABY-SHARK.png",Baby Shark | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/QdQ0xf7H/PLUTO_TV_BABY_FIRST.png",Babyfirst | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -267,7 +267,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png",Bebecito Bum y sus amigos | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="http://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png",Bob Esponja | Pluto TV Espanha
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/mkRNsYkz/PLUTO-TV-BEBECITO-BOOM.png",Bob Esponja | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/55/ESBA3300020W5_20210113T004316.png",Caillou | Espanha
 https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_WildBrainPresentsCaillou/playlist.m3u8
@@ -275,29 +275,29 @@ https://458bf21c34f346cb9d9d22095ddc058f.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.imgur.com/g3Jreh3.png",Canela Kids 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1745
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="http://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png",Detective Conan | Pluto TV Espanha
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/K8gNtv6Y/PLUTO-TV-CONAN.png",Detective Conan | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b70/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="http://images.pluto.tv/channels/624466b26ab25e0007dd7cfb/colorLogoPNG.png",Dora la Exploradora | Pluto TV Espanha
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/s2dJmCz4/PLUTO-TV-DORA.png",Dora la Exploradora | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624466b26ab25e0007dd7cfb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/9Q3hrPmv/PLUTO_TV_REINO_INFANTIL.png",El Reino Infantil | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://images.pluto.tv/channels/60fafef7c2440500071266e0/colorLogoPNG.png",Grande-ish | Pluto TV EUA
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/RVYd3nb8/PLUTO-TV-GRANDE-ISH.png",Grande-ish | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60fafef7c2440500071266e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png",iCarly | Pluto TV Espanha
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/VNqWHZLQ/PLUTO-TV-ICARY.png",iCarly | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6181404ef48321000797bc41/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png",iCarly | Pluto TV EUA
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/VNqWHZLQ/PLUTO-TV-ICARY.png",iCarly | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png",Junior | Pluto TV Argentina
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/rmgCqdrf/PLUTO-TV-JUNIOR.png",Junior | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="http://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG.png",Junior | Pluto TV Espanha
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/rmgCqdrf/PLUTO-TV-JUNIOR.png",Junior | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="http://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png",Kenan y Kel | Pluto TV Argentina
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/wMv5M65g/PLUTO-TV-KENAN.png",Kenan y Kel | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="http://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png",Kids | Pluto TV Argentina
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/85Tm8djF/PLUTO-TV-KIDS.png",Kids | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="http://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png",Kids | Pluto TV Espanha
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/85Tm8djF/PLUTO-TV-KIDS.png",Kids | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="http://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png",Kids+ | Pluto TV Espanha
+#EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/85Tm8djF/PLUTO-TV-KIDS.png",Kids+ | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="http://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png",Las Pistas de Blue | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
