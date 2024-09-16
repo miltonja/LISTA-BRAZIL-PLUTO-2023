@@ -651,37 +651,37 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.imgur.com/oyaqyxB.png",Canela Telenovelas 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1738
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="http://images.pluto.tv/channels/61b3e21d56fee300087e4cba/colorLogoPNG.png",Corazón Turco | Pluto TV EUA
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/0QmVG8vg/PLUTO-TV-CORAZON_TURCO.png",Corazón Turco | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="http://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG.png",Dramas Coreanos | Pluto TV Argentina
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/prHqqgVm/PLUTO-TV-DRAMAS_COREANOS.png",Dramas Coreanos | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://images.pluto.tv/channels/60492c67f4c48700075b5d37/colorLogoPNG.png",Entre nosotras | EUA
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/Kv6jysJ8/PLUTO_TV_ENTRE_NOSOTRAS.png",Entre nosotras | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492c67f4c48700075b5d37/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="http://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png",Mundo paranormal | Pluto TV EUA
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/50v5C8Xq/PLUTO-TV-MUNDO-PARANORMAL-2.png",Mundo paranormal | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="http://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png",Novelas con la abuela | EUA
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/yxWfjJmx/PLUTO_TV_NOVELAS_CON_LA_ABUELA.png",Novelas con la abuela | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="http://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png",Novelas Evagina | Pluto TV Argentina
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/90HYWZ51/PLUTO-TV-NOVELAS.png",Novelas Evagina | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.imgur.com/KB1hXsY.png",Series | Pluto TV Argentina
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/G3NhQddd/PLUTO-TV-SERIES-RETRO.png",Series | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.imgur.com/KB1hXsY.png",Series | Pluto TV Espanha
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/Vk4wnWKr/PLUTO-TV-SERIES.png",Series | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="http://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png",Series Comedia | Pluto TV Espanha
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/5tQ0nvc4/PLUTO-TV-CINE-COMEDIA.png",Series Comedia | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="http://images.pluto.tv/channels/60fb3087fbbc120007fc46be/colorLogoPNG.png",Series com Ñ | Pluto TV EUA
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/Vk4wnWKr/PLUTO-TV-SERIES.png",Series com Ñ | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="http://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png",Series Latinas | Pluto TV Argentina
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/d1YHjMX6/PLUTO-TV-SERIES-LATINAS.png",Series Latinas | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="http://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png",Series Retro | Pluto TV Argentina
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/G3NhQddd/PLUTO-TV-SERIES-RETRO.png",Series Retro | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/colorLogoPNG.png",Sony Canal Comedias | EUA
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/7hTRDGfc/PLUTO-TV-SONY-COMEDIAS.png",Sony Canal Comedias | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b4e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.imgur.com/mqEHDE1.png",Sony Canal Novelas | LG
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="http://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png",Telemundo Telenovelas Clásicas | EUA
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/CxQbrcDs/PLUTO-TV-TELEMUNDO-CLASICAS.png",Telemundo Telenovelas Clásicas | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="http://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png",Telenovelas | Pluto TV Espanha
+#EXTINF:-1 group-title="Novelas e séries em espanhol" tvg-logo="https://i.postimg.cc/t4ThzK1g/PLUTO-TV-TELENOVELAS.png",Telenovelas | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Rádios da Espanha" tvg-logo="https://i.imgur.com/UPxfjfl.jpg",Canal Fiesta | castelhano
 https://cdnlive.codev8.net/rtvalive/smil:channel5.smil/master.m3u8
