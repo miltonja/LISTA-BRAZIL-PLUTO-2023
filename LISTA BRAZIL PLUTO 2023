@@ -329,6 +329,76 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6de52b
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://i.postimg.cc/sx4yTSXn/PLUTO_TV_TOKUSATO.png",Tokusato | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/HLhFD8Rf/Runtime-LATINO.png",Run Time Latino
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/x1gW54Rj/Runtime-films.png",Run Time Films
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/X7WxYYcY/runtime-espanol.png",Run Time Espanyol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/LsXGb3Ct/Runtime-cine-series.png",Run Time Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/qvpP8T2Z/Runtime-english.png",Run Time English
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/ZR1k3vLr/Runtime-France.png",Run Time France
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/QtBGHJc8/Runtime-familia.png",Run Time Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/fbRhhNL0/Runtime-Terror.png",Run Time Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/fyxP92yN/Runtime-CRIMEN-1.png",Run Time Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/2jvMM6wK/Runtime-COMEDIA-1.png",Run Time Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/PqVnXRpV/Runtime-Accion.png",Run Time Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/VLWB9kRJ/Canela-Mediamodif.png",Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/bY0cdT5T/Canela-TV-NETWORK.png",Canela Network
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+#EXTINF:-1 group-title="24/7"tvg-logo=https://i.postimg.cc/zvF9MzhM/Canela-tv-cinemaf.png"",Canela Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/RhBkX6WK/Canela-tv-novelas.png",Canela Novelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/N0Wq2PYN/Canela-tv-clasicos.png",Canela Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/qRyfsXvp/Canela-tv-hisf.png",Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:-1 group-title="24/7tvg-logo="https://i.postimg.cc/7hn4SMYp/Canela-TV-KIDS.png",Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/vm1wBdRg/Canela-tv-music.png",Canela Music
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/pLctRLSM/Canela-tv-novelisima.png",Canela Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 group-title="DEPORTES"tvg-logo="https://i.postimg.cc/bwwj7t3R/Canela-tv-itv-deportes.png",ITV DEPORTES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+#EXTINF:-1 group-title="DEPORTES"tvg-logo="https://i.postimg.cc/G3Fb0rJq/Canela-TV-Aym-sports.png",AYM Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/yYPHpPXd/Canela-tv-combate.png",Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/GhrRjNDV/Canela-tv-kanal-d-drama.png",Kanal D Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://i.postimg.cc/SRLhhLBg/Canela-tv-corazon-fast.png",Corazón Fast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://i.postimg.cc/LX1SyFNK/Canela-tv-clic-fast.png",Clic Fast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+#EXTINF:-1 group-title="CINE"tvg-logo="https://i.postimg.cc/zvF9MzhM/Canela-tv-cinemaf.png",Cinema Fast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/NfQBBVdY/Canela-tv-accion-mexicana.png",Acción Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/x8V2hp4k/Canela-tv-comba-tv.png",CombaTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/qMQ0RLFK/Canela-tv-wpt.png",WPT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/fWYZmZVY/Canela-tv-c4-en-alerta.png",C4 En Alerta
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
+#EXTINF:-1 group-title="LOCALES"tvg-logo="https://i.postimg.cc/y81V75Yc/Canela-tv-canal6-cdmx.png",Canal 6 CDMX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
+#EXTINF:-1 group-title="INFORMACIÓN"tvg-logo="https://i.postimg.cc/N0LBHHX0/Canela-tv-milenio-tv.png",Milenio Televisión
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
+#EXTINF:-1 group-title="LOCALES"tvg-logo="https://i.postimg.cc/7LcDMZ1n/Canela-tv-Azteca-uno.png",Azteca Uno (-1h)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+#EXTINF:-1 group-title="LOCALES"tvg-logo="https://i.postimg.cc/2S0CywVJ/Canela-tv-imagen-tv.png",Imagen TV+ (-1h)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png",Toon Googles en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png",Toon Goggles en Español 2
