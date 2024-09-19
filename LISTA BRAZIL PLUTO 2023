@@ -351,11 +351,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 #EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/PqVnXRpV/Runtime-Accion.png",Run Time Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/VLWB9kRJ/Canela-Mediamodif.png",Canela TV
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/rFfppdjh/Canela-Mediamodif.png",Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 #EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/bY0cdT5T/Canela-TV-NETWORK.png",Canela Network
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
-#EXTINF:-1 group-title="24/7"tvg-logo=https://i.postimg.cc/zvF9MzhM/Canela-tv-cinemaf.png"",Canela Cinema
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/zvF9MzhM/Canela-tv-cinemaf.png",Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 #EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/RhBkX6WK/Canela-tv-novelas.png",Canela Novelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
