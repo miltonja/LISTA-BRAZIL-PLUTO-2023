@@ -363,7 +363,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/qRyfsXvp/Canela-tv-hisf.png",Canela Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:-1 group-title="24/7tvg-logo="https://i.postimg.cc/7hn4SMYp/Canela-TV-KIDS.png",Canela Kids
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/7hn4SMYp/Canela-TV-KIDS.png",Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/vm1wBdRg/Canela-tv-music.png",Canela Music
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
@@ -373,13 +373,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 group-title="DEPORTES"tvg-logo="https://i.postimg.cc/G3Fb0rJq/Canela-TV-Aym-sports.png",AYM Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
-#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/yYPHpPXd/Canela-tv-combate.png",Combate Global
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/rsS8csm9/COMBATE-GLOB-AK.png",Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/GhrRjNDV/Canela-tv-kanal-d-drama.png",Kanal D Drama
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://i.postimg.cc/SRLhhLBg/Canela-tv-corazon-fast.png",Corazón Fast
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://i.postimg.cc/1RMN2Lyk/Coraz-n-TV-channel-logo-2021.png",Corazón Fast
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
-#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://i.postimg.cc/LX1SyFNK/Canela-tv-clic-fast.png",Clic Fast
+#EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-logo="https://i.postimg.cc/3Nb5mK25/click.png",Clic Fast
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 #EXTINF:-1 group-title="CINE"tvg-logo="https://i.postimg.cc/zvF9MzhM/Canela-tv-cinemaf.png",Cinema Fast
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
@@ -387,17 +387,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/x8V2hp4k/Canela-tv-comba-tv.png",CombaTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
-#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/qMQ0RLFK/Canela-tv-wpt.png",WPT
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/nhRjN7WK/WORLD-POKER-TOUR-modif.png",WPT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
-#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/fWYZmZVY/Canela-tv-c4-en-alerta.png",C4 En Alerta
+#EXTINF:-1 group-title="24/7"tvg-logo="https://i.postimg.cc/4xH9cbmL/C-4-EN-ALERTA.png",C4 En Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
-#EXTINF:-1 group-title="LOCALES"tvg-logo="https://i.postimg.cc/y81V75Yc/Canela-tv-canal6-cdmx.png",Canal 6 CDMX
+#EXTINF:-1 group-title="LOCALES"tvg-logo="https://i.postimg.cc/CMvVW4XP/canal-6.png",Canal 6 CDMX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
 #EXTINF:-1 group-title="INFORMACIÓN"tvg-logo="https://i.postimg.cc/N0LBHHX0/Canela-tv-milenio-tv.png",Milenio Televisión
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
-#EXTINF:-1 group-title="LOCALES"tvg-logo="https://i.postimg.cc/7LcDMZ1n/Canela-tv-Azteca-uno.png",Azteca Uno (-1h)
+#EXTINF:-1 group-title="LOCALES"tvg-logo="https://i.postimg.cc/rpSRnVG5/AZTECA-UNO-BUENO.png",Azteca Uno (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
-#EXTINF:-1 group-title="LOCALES"tvg-logo="https://i.postimg.cc/2S0CywVJ/Canela-tv-imagen-tv.png",Imagen TV+ (-1h)
+#EXTINF:-1 group-title="LOCALES"tvg-logo="https://i.postimg.cc/tT71HsFV/Imagen-Televisi-n.png",Imagen TV+ (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 group-title="Infantis em espanhol" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png",Toon Googles en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
